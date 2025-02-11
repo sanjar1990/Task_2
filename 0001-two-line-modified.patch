@@ -1,0 +1,24 @@
+From 436314df84c1c9e30a3056d7d62536dd57517606 Mon Sep 17 00:00:00 2001
+From: sanjar1990 <sanjar902105@gmail.com>
+Date: Wed, 11 Feb 2026 11:11:35 +0500
+Subject: [PATCH] two line modified
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 14d1250..cd83112 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line1
+-Line2
++Line1 updated by git_1
++Line2 updated by git_1
+ Line3
+ Line4
+ Line5
+-- 
+2.45.1.windows.1
+
