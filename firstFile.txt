@@ -2,8 +2,8 @@ Line1 updated by git_1
 Line2 updated by git_1
 Line3 updated by git_1
 Line4  updated by git_1
-Line5
-Line6
+Line5 changed by folder_1 git_1
+Line6 changed by folder_1 git_1
 Line7
 Line8
 Line9
